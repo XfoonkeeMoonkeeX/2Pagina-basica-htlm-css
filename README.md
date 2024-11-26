@@ -1,5 +1,10 @@
 # 2Pagina-basica-htlm-css
-
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
+![GitHub Actions](https://img.shields.io/github/workflow/status/XfoonkeeMoonkeeX/tu-repo/CI)
+![License](https://img.shields.io/github/license/XfoonkeeMoonkeeX/tu-repo)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/XfoonkeeMoonkeeX/tu-repo)
+![Dependabot](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
+![GitHub Activity](https://img.shields.io/github/commit-activity/y/XfoonkeeMoonkeeX/tu-repo)
 ## Descripción
 
 Este proyecto consiste en la primera versión de una página web básica construida utilizando **HTML** y **CSS**. Está diseñada con un enfoque sencillo y funcional, sirviendo como base para futuras expansiones y mejoras en el diseño y la funcionalidad.
